@@ -1,4 +1,4 @@
-# 基于轻量化RT-DETR的车辆小目标检测算法
+# 基于轻量化RT-DETR-tiny的车辆小目标检测算法
 PyTorch implementation of some single image small_car detect networks. 
 
 Currently Implemented:
